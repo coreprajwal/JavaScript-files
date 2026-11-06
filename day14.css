@@ -1,0 +1,43 @@
+.h1_css{
+       color: orange;
+       background-color:black;
+       padding:30px;
+       width:700px;
+
+}
+
+.h1_css2{
+       height: 200px;
+       font-size: 100px;
+}
+
+
+.content{
+       color:red;
+       background-color:black;
+}
+
+.imgcss{
+       height:200px;
+       border:10px solid black;
+}
+
+.dynamicimgcss{
+       border: 10px solid hotpink;
+       border-radius:50%;
+}
+
+.togglestyle{
+       background-color:black;
+       color:yellow;
+}
+
+.body{
+       background-color:black;
+}
+
+.bodybtn{
+       background-color:orange;
+       color:red;
+    
+}
